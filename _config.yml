@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://blog.nswebfrog.com
-author: nswebfrog
+url: http://nightks.github.io/
+author: NightKs
 highlighter: pygments
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
