@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 url: http://nightks.github.io/
-author: NightKs
+author: 猫头鹰患者
 highlighter: pygments
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
