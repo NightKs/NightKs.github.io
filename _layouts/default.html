@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="zh-CN">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="{{ site.author }}" />
@@ -57,7 +57,11 @@
       </div>
 
     <footer>
-        <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> & <a href="http://pages.github.com">GitHub</a> | Author by <a href="/about/">猫头鹰患者</a> | theme by <a href="https://github.com/webfrogs">webfrogs</a> | <span class="label label-info" id="timeSpan"></span></small></p>
+        <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> & <a href="http://pages.github.com">GitHub</a> | Author by <a href="/about/">猫头鹰患者</a> | theme by <a href="https://github.com/webfrogs">webfrogs</a> | <span class="label label-info" id="timeSpan"></span>
+        {% if site.cnzz %}
+             | <script src="http://s85.cnzz.com/stat.php?id={{ site.cnzz }}"></script>
+        {% endif %}
+        </small></p>
     </footer>
 
     </div>
