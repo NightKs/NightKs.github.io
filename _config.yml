@@ -7,4 +7,3 @@ exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
 paginate: 16 
 gems: [jekyll-paginate]
-
