@@ -9,8 +9,7 @@ tags: 手册 git github
 
 常用命令
 
-	//更新远程仓库的内容到本地
-	git pull
+	git pull	//更新远程仓库的内容到本地
 	git add .
 	git commit -a -m "加改动信息"
 	git remote add origin https://github.com/(github用户名)/(jekyll项目名称).git
