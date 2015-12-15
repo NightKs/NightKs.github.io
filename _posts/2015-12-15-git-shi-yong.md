@@ -3,7 +3,7 @@ layout: post
 date: 2015-12-15 13:45:20 +0800
 title: Git使用
 categories: 技术
-tags: 技术 Git
+tags: 技术 Git 手册
 ---
 贴两篇教程。
 
@@ -11,3 +11,9 @@ tags: 技术 Git
 0013739516305929606dd18361248578c67b8067c8c017b000)
 
 2.[Pro Git（中文版）](http://git.oschina.net/progit/)
+
+###命令
+	git add .
+	git commit -a -m "加改动信息"
+	git remote add origin https://github.com/(github用户名)/(jekyll项目名称).git
+	git push -u origin master
