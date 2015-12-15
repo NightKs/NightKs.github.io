@@ -11,9 +11,9 @@ tags: 手册 git github
 
 	git pull	//更新远程仓库的内容到本地
 	git add .
-	git commit -a -m "加改动信息"
-	git remote add origin https://github.com/(github用户名)/(jekyll项目名称).git
-	git push -u origin master
+	git commit -a -m "加改动信息"		//添加到暂缓区
+	git remote add origin https://github.com/(github用户名)/(jekyll项目名称).gi		// 上传到本地库
+	git push -u origin maste		//更新本地库内容到远程仓库
 
 **注意**
 
