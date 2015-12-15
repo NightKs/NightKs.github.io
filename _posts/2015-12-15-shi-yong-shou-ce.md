@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-12-15 13:45:20 +0800
-title: 使用手册
+title: git使用手册
 categories: 技术 手册
 tags: 手册 git github
 ---
