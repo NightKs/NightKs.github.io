@@ -6,7 +6,12 @@ categories: 技术 手册
 tags: 手册 git github
 ---
 ###git
+<<<<<<< HEAD:_posts/2015-12-15-shi-yong-shou-ce.md
 **教程
+=======
+*教程
+
+>>>>>>> 76b07ee128df486e3809a6741401df57308929f2:_posts/2015-12-15-shi-yong-shou-ce.md
 1.[史上最浅显易懂的Git教程！](http://www.liaoxuefeng.com/wiki/
 0013739516305929606dd18361248578c67b8067c8c017b000)
 
