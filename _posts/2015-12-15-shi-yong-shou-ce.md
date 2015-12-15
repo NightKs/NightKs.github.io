@@ -7,14 +7,14 @@ tags: 手册 git github
 ---
 #git
 
-**教程**
+教程
 
 1.[史上最浅显易懂的Git教程！](http://www.liaoxuefeng.com/wiki/
 0013739516305929606dd18361248578c67b8067c8c017b000)
 
 2.[Pro Git（中文版）](http://git.oschina.net/progit/)
 
-**常用命令**
+常用命令
 
 	git add .
 	git commit -a -m "加改动信息"
@@ -23,7 +23,7 @@ tags: 手册 git github
 
 #github
 
-**教程**
+教程
 
 1.[版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
 
