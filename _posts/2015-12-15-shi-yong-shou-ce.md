@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-12-15 13:45:20 +0800
-title: git使用手册
+title: 命令手册
 categories: 技术 手册
 tags: 手册 git github
 ---
@@ -35,7 +35,8 @@ tags: 手册 git github
 
 	//新建名为“使用jekyll-cli快速写blog”的文章
 	$ jkl post 使用jekyll-cli快速写blog
-正常的情况下它就会在**_post**目录创建好一个文件名是**使用jekyll-cli快速写blog**的markdown文件，同时这个文件的内容已经写上了时间标题，如果你不想使用中文的文件名，可以加上**-p**参数，它会帮你把中文转换为拼音
+	
+正常的情况下它就会在**_post**目录创建好一个文件名是**使用jekyll-cli快速写blog**的markdown文件，同时这个文件的内容已经写上了时间标题，如果你不想使用中文的文件名，可以加上  **-p**参数，它会帮你把中文转换为拼音
 
 	$ jkl post -p 使用jekyll-cli快速写blog
-更多详细的用法，可以查看帮助**$ jkl -h**子命令的详细用法，可以同样可以查看帮助，比如查看**post**的详细用法和参数**$ jkl post -h**
+更多详细的用法，可以查看帮助  **$ jkl -h**子命令的详细用法，可以同样可以查看帮助，比如查看  **post**的详细用法和参数 **$ jkl post -h**
