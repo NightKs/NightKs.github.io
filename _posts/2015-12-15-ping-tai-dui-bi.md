@@ -6,8 +6,7 @@ tags: git github wordpress hexo jekyll
 categories: 技术 
 ---
 
-这篇就主要写一些关于bolg的维护工作吧。    
-各种搭建博客平台程序的对比。 [转](http://read.mobi/2015/03/15/blog-source-comparison/)   
+各种搭建博客平台程序的对比。[转](http://read.mobi/2015/03/15/blog-source-comparison/)   
 
 1、Wordpress，搭建平台PHP+MYSQL： 
 优点：搭建简单，功能强大，插件及主题模板资源非常多，备份简单，支持转到多种其它博客程序；      
