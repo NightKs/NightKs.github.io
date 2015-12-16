@@ -6,7 +6,7 @@ tags: 日志
 categories: 日志 
 ---
 
-这篇就主要写一些关于bolg的维护工作吧。 
+这篇就主要写一些关于bolg的维护工作吧。    
 各种搭建博客平台程序的对比。 [转](http://read.mobi/2015/03/15/blog-source-comparison/)   
 
 1、Wordpress，搭建平台PHP+MYSQL： 
