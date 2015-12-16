@@ -3,7 +3,7 @@ layout: post
 date: 2015-12-15 18:59:45 +0800
 title: 各种搭建博客平台程序的对比
 tags: git github wordpress hexo jekyll
-categories: 技术 
+categories: 前端 
 ---
 
 **1、Wordpress**  
