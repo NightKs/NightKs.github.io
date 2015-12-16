@@ -1,12 +1,10 @@
 ---
 layout: post
 date: 2015-12-15 18:59:45 +0800
-title: 博客维护
+title: 各种搭建博客平台程序的对比
 tags: git github wordpress hexo jekyll
 categories: 技术 
 ---
-
-各种搭建博客平台程序的对比。[转](http://read.mobi/2015/03/15/blog-source-comparison/)   
 
 1、Wordpress，搭建平台PHP+MYSQL： 
 优点：搭建简单，功能强大，插件及主题模板资源非常多，备份简单，支持转到多种其它博客程序；      
@@ -26,4 +24,4 @@ categories: 技术
 5、Ghost，构建于Node.js，模板众多。本质上跟WordPress一样（btw, 其创始人以前是在WordPress工作的），无法构建在虚拟主机上，需要vps或服务器。如果你厌烦了手工安装Node.js和Ghost，可以试试BitNami团队开发的Ghost安装工具，它提供了对所有主流平台的支持。
 优点：使用ghost有一个好处只要能上网就可以写博客，在线写作支持markdown（左边是markdown右边可以看到预览效果），后台管理简单，并且有很多非常漂亮的模板可供选择。
 缺点：需要VPS或独立的服务器，博客无法实现Archives及Categories显示，只能通过Tags。
-
+[链接](http://read.mobi/2015/03/15/blog-source-comparison/)
